@@ -12,10 +12,12 @@
 
 ## Feedback would be nice ;-]
 
-Just leave an issue or a PR.
+Just leave an issue or a PR. **And hey, [take a look into the commit messages](https://github.com/jousch/TYPO3talk-custom-contentelements-with-fluid_styled_content/commits/master). The single steps are also documented there - of course, in perfect english ;-]**
 
 ### Follow/Contact me
 
 - https://twitter.com/jouschcom
 - http://typo3blog.at
 - https://productiveness.josefglatz.at
+
+# Inspire people to share ¯\_(ツ)_/¯
