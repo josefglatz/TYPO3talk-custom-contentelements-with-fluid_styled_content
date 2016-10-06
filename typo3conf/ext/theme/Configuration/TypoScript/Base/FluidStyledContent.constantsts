@@ -1,0 +1,8 @@
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:fluid_styled_content/Configuration/TypoScript/Static/constants.txt">
+
+# Set override paths for ext:fluid_styled_content
+styles.templates {
+	templateRootPath = EXT:theme/Resources/Private/Templates/Content/
+	partialRootPath = EXT:theme/Resources/Private/Partials/Content/
+	layoutRootPath = EXT:theme/Resources/Private/Layouts/Content/
+}
