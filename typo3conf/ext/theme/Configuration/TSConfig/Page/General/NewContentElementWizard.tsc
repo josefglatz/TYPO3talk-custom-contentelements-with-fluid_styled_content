@@ -1,0 +1,16 @@
+mod.wizards.newContentElement.wizardItems {
+	homepage {
+		header = Meine Content Elemente
+		show = *
+		elements {
+			theme-tuga {
+				iconIdentifier = content-textmedia
+				title = TUGA Content Element
+				description = Ein simples Content Element
+				tt_content_defValues {
+					CType = theme_tuga
+				}
+			}
+		}
+	}
+}
