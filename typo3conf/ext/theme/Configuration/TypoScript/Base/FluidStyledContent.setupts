@@ -2,3 +2,17 @@
 
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:fluid_styled_content/Configuration/TypoScript/Static/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:fluid_styled_content/Configuration/TypoScript/Styling/setup.txt">
+
+tt_content {
+    theme_tuga < lib.fluidContent
+    theme_tuga {
+        templateName = Tuga
+        dataProcessing {
+            10 = TYPO3\CMS\Frontend\DataProcessing\FilesProcessor
+            10 {
+                references.fieldName = image
+                as = sliderImages
+            }
+        }
+    }
+}
