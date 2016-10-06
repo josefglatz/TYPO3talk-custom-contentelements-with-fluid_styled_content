@@ -6,7 +6,7 @@
 [Slides in German at Slideshare](http://de.slideshare.net/jouschcom/simple-custom-content-elements-in-typo3-cms-v7v8-auf-basis-von-fluid-styled-content) | 
 [Meetup Page](https://www.meetup.com/de-DE/TUGA-TYPO3-User-Group-Austria/events/234285367/)
 
-### ...of my planed online introduction in english ツ
+### ...of my planned online introduction in english ツ
 
 (I will update this README, if the english/online version is available)
 
